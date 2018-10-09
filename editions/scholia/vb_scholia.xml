@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Scholia to Venetus B</title>
+                <author>Brie DiPietro</author>
+                <author>Maia Lee-Chin</author>
+                <author>Phillip Muijtjens</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Venetus B MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="10">
+            <text n="msB">
+                <body>
+                  <div n="FOLIO_ID" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>TEXT URN</p>
+                      </div>
+                      <div n="comment">
+                          <p></p>
+                      </div>
+                  </div>
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>

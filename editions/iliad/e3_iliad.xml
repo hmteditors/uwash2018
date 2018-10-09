@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor>YOUR NAME HERE</editor>
+
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Escorial manuscript Upsilon 1.1 for the Homer Multitext project</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="10">
+        <l n="X">ὥς νῦν μοι ἐθέλουσα παρίστασο καί με φύλασσε-</l>
+
+      </div>
+    </body>
+  </text>
+</TEI>

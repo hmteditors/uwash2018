@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Scholia to Escorial Upsilon 1.1</title>
+                <author>YOUR NAME HERE</author>
+
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Transcribed from Upsilon 1.1 MS</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <group n="10">
+            <text n="e3">
+                <body>
+                    <div n="FOLIO_ID" type="scholion">
+                        <div n="lemma">
+                            <p></p>
+                        </div>
+                        <div n="ref">
+                            <p>TEXT URN</p>
+                        </div>
+                        <div n="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    
+                </body>
+            </text>
+        </group>
+    </text>
+</TEI>
