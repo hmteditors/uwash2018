@@ -4,7 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Escorial Upsilon 1.1</title>
-                <author>YOUR NAME HERE</author>
+                <author>shenjs</author>
+                <author>Rose Bugel-Shunra</author>
 
             </titleStmt>
             <publicationStmt>
@@ -19,18 +20,47 @@
         <group n="10">
             <text n="e3">
                 <body>
-                    <div n="FOLIO_ID" type="scholion">
+                    <div n="128r_1" type="scholion">
                         <div n="lemma">
-                            <p></p>
+                            <p><num value="10">ι</num></p>
                         </div>
                         <div n="ref">
-                            <p>TEXT URN</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.176</p>
                         </div>
                         <div n="comment">
-                            <p></p>
+                            <p>τὸ ἑξῆσ.  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.176</ref><q>ἄνστησον
+                            εἴ μ‘ ἐλεαίρεισ</q></cit>- οὐκ ἐπιτακτικῶς δέ φησιν· ἀλλ’ εἰ ταῖς ἀληθείαις ἐλεεῖς με-
+                              διὰ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.164</ref><q>σὺ πόνου οὔποτε λήγεις</q></cit>-
+                              τὸ δὲ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.176</ref><q>σὺ γάρ ἐσσι νεώτερος</q></cit>.
+                              πρὸς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.165</ref><q>
+                              καὶ ἄλλοι ἐάσι νεώτεροι υἷες Ἀχαιῶν</q></cit>⁑</p>
                         </div>
                     </div>
-                    
+                    <div n="128r_2" type="scholion">
+                        <div n="lemma">
+                            <p><num value="11">ια</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.179</p>
+                        </div>
+                        <div n="comment">
+                            <p>ταχέως πάνυ τοῦτο ποιεῖ- οὐδὲν γὰρ ἔδει διατρίβειν
+                              <choice><sic>παρὰ</sic><corr>περὶ</corr></choice>πρᾶξιν,
+                              μηδὲν ἠθικὸν μὴ δὲ ἀξιόπιστον ἔχουσ⁑</p>
+                        </div>
+                    </div>
+                    <div n="128r_SCHOLION" type="scholion">
+                        <div n="lemma">
+                            <p><num value="NUMBER">CHARACTER</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.LINE NUMBER</p>
+                        </div>
+                        <div n="comment">
+                            <p>TEXT HERE</p>
+                        </div>
+                    </div>
+
                 </body>
             </text>
         </group>
