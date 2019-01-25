@@ -4,9 +4,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Venetus B</title>
-                <author>Brie DiPietro</author>
-                <author>Maia Lee-Chin</author>
-                <author>Phillip Muijtjens</author>
+                <author>Olga Levaniouk</author>
+                <author>Joseph Bringman</author>
+                <author>Sierra Rasmussen</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -20,15 +20,67 @@
         <group n="10">
             <text n="msB">
                 <body>
-                  <div n="FOLIO_ID" type="scholion">
+                  <div n="133r_1" type="scholion">
                       <div n="lemma">
-                          <p></p>
+                          <p><num value="10">ι</num></p>
                       </div>
                       <div n="ref">
-                          <p>TEXT URN</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.176</p>
                       </div>
                       <div n="comment">
-                          <p></p>
+                          <p>τὸ ἐξῆς, <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.176</ref><q>ἄνστησον εἴ μ’ ἐλεαίρεις</q></cit> ·
+                          οὐκ ἐπιτακτικῶς δέ φησιν· ἀλλ’ εἰ ταῖς ἀληθείαις ἐλεεῖς με·
+                            διὰ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.164</ref><q>σὺ μὲν πόνου οὔποτε λήγεις</q></cit> τὸ δὲ
+                            <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.176</ref><q>σὺ γὰρ ἔσσι νεώτερος</q></cit>,
+                            πρὸς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.165</ref><q>καὶ ἄλλοι ἐάσι νεώτεροι υἷες Ἀχαιῶν</q></cit>  ⁑</p>
+                      </div>
+                  </div>
+                  <div n="133r_2" type="scholion">
+                      <div n="lemma">
+                          <p><num value="11">ια</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.179</p>
+                      </div>
+                      <div n="comment">
+                          <p> ταχέως πάνυ τοῦτο ποιεῖ· οὐδὲν γὰρ ἔδει διατρίβειν περὶ πρᾶξιν,
+                            μηδὲν ἠθικὸν μὴ δὲ ἀξιόπιστον ἔχουσαν ⁑</p>
+                      </div>
+                  </div>
+                  <div n="133r_3" type="scholion">
+                      <div n="lemma">
+                          <p><num value="12">ιβ</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.182</p>
+                      </div>w
+                      <div n="comment">
+                          <p> οὔτε κατακλίνονται δεόντως, ἵνα μὴ καταβαρηθῶσιν ὕπνῳ· οὔτε ἑστήκασιν, ἵνα μὴ τῆς χρείας προκάμωσιν· οἰκεῖον δὲ φύλαξι τὸ μὴ κοιμᾶσθαι,
+                          μὴ δὲ πρὸς βραχὺ ἀποθέσθαι τὴν ἀσπίδα ⁑</p>
+                      </div>
+                  </div>
+                  <div n="133r_4" type="scholion">
+                      <div n="lemma">
+                          <p><num value="13">ιγ</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.183</p>
+                      </div>
+                      <div n="comment">
+                          <p> κοινῶς ὡς ἂν εἴποις, κακὴν νύκτα διήγαγον· και ἐστί παθητικὸν. ὑπὸ τοῦ ποιητοῦ προσκείμενον·
+                            ἅμα δὲ καὶ ἐξηγεῖται τὸ <waw> δυσωρήσονται </waw>· δηλοῖ γὰρ τὴν δυσχερῆ παραφυλακήν ⁑</p>
+                      </div>
+                  </div>
+                  <div n="133r_5" type="scholion">
+                      <div n="lemma">
+                          <p><num value="14">ιδ</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.186</p>
+                      </div>
+                      <div n="comment">
+                          <p> αὐτοῖς τοῖς κυσί· θορύβου γὰρ παρεμπεσόντος· κἂν οἱ ἄνδρες ἀφυπνώσοσϊν, οὐκ έτι κοιμῶνται οἱ κύνες·
+                            διὸ ὑπερβολικῶς εἶπε τὸ <waw> ὄλωλεν </waw> ὡς μὴ δὲ ὕστερον εἰ βουληθεῖεν ὑπνωσότων⁑</p>
                       </div>
                   </div>
                 </body>
