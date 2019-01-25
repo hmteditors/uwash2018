@@ -4,8 +4,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Escorial Upsilon 1.1</title>
-                <author>shenjs</author>
+                <author>shen jingsi</author>
                 <author>Rose Bugel-Shunra</author>
+                <author> Grecia Leal Pardo</author>
 
             </titleStmt>
             <publicationStmt>
@@ -29,9 +30,9 @@
                         </div>
                         <div n="comment">
                             <p>τὸ ἑξῆσ.  <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.176</ref><q>ἄνστησον
-                            εἴ μ‘ ἐλεαίρεισ</q></cit>- οὐκ ἐπιτακτικῶς δέ φησιν· ἀλλ’ εἰ ταῖς ἀληθείαις ἐλεεῖς με-
+                            εἴ μ‘ ἐλεαίρεισ</q></cit>- οὐκ ἐπιτακτικῶς δέ φησιν· ἀλλ’ εἰ ταῖς ἀληθείαις ἐλεεῖς με-
                               διὰ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.164</ref><q>σὺ πόνου οὔποτε λήγεις</q></cit>-
-                              τὸ δὲ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.176</ref><q>σὺ γάρ ἐσσι νεώτερος</q></cit>.
+                              τὸ δὲ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.176</ref><q>σὺ γάρ ἐσσι νεώτερος</q></cit>.
                               πρὸς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.165</ref><q>
                               καὶ ἄλλοι ἐάσι νεώτεροι υἷες Ἀχαιῶν</q></cit>⁑</p>
                         </div>
@@ -51,17 +52,44 @@
                     </div>
                     <div n="128r_SCHOLION" type="scholion">
                         <div n="lemma">
-                            <p><num value="NUMBER">CHARACTER</num></p>
+                            <p><num value="12">ιβ</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.LINE NUMBER</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.182</p>
                         </div>
                         <div n="comment">
-                            <p>TEXT HERE</p>
+                            <p>οὔτε κατα κλίνονται δεόντως- ἵνα μὴ καταβαρηθῶσιν ϋπνῳ-
+                              οὔτε ἑστήκασιν. ἵνα μὴ τῆς ασ προκάμωσιν- οἰκεῖον δὲ φύλαξι
+                              τὸ μὴ κοιμᾶσαται- μὴ δὲ πρὸσ βραχὺ ἀποθέσθαι τὴν ἀσπί</p>
                         </div>
                     </div>
-
-                </body>
+                    <div n="128r_SCHOLION" type="scholion">
+                        <div n="lemma">
+                            <p><num value="13">ιγ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.183</p>
+                        </div>
+                        <div n="comment">
+                          <p> θείως τὴν τῶν φυλάκοων ἀγρυπνίαν.  τῇ τῶν κυνῶν παρέβαλε-
+                            καὶ ταῦτα   ποιμενικῶν- ὀξυήκοοι γα  ἄγρυπνοι- ἔπειτα καὶ
+                            λέοντος δοκῶντες ἔφοδον⁑</p>
+                          </div>
+                      </div>
+                      <div n="128r_SCHOLION" type="scholion">
+                          <div n="lemma">
+                              <p><num value="14">ιδ</num></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.186</p>
+                          </div>
+                          <div n="comment">
+                            <p> ἀυτοῖς τοῖς κυσί- θορύβου γὰρ παρεμπεσόντος. κὰν οἱ ἄνδρες
+                               ἀφυπνώσωσιν. οὐκ ἔτι κοιμῶνται οἱ κύνες. διὸ ῾υπερβολικῶς εἰπε
+                               τὸ ὄλωλεν. ὡς μὴ δὲ ὕστερον εἰ βουληθεῖεν ὑπνωσόντων⁑</p>
+                            </div>
+                            </div>
+                                          </body>
             </text>
         </group>
     </text>
