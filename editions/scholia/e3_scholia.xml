@@ -7,6 +7,7 @@
                 <author>shen jingsi</author>
                 <author>Rose Bugel-Shunra</author>
                 <author> Grecia Leal Pardo</author>
+                <author> Sierra Rasmussen <author>
 
             </titleStmt>
             <publicationStmt>
@@ -34,7 +35,7 @@
                               διὰ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.164</ref><q>σὺ πόνου οὔποτε λήγεις</q></cit>-
                               τὸ δὲ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.176</ref><q>σὺ γάρ ἐσσι νεώτερος</q></cit>.
                               πρὸς τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.165</ref><q>
-                              καὶ ἄλλοι ἐάσι νεώτεροι υἷες <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs></q></cit>⁑</p>
+                              καὶ ἄλλοι ἐάσι νεώτεροι υἷες Ἀχαιῶν</q></cit>⁑</p>
                         </div>
                     </div>
                     <div n="128r_2" type="scholion">
@@ -88,8 +89,41 @@
                                ἀφυπνώσωσιν. οὐκ ἔτι κοιμῶνται οἱ κύνες. διὸ ῾υπερβολικῶς εἰπε
                                τὸ ὄλωλεν. ὡς μὴ δὲ ὕστερον εἰ βουληθεῖεν ὑπνωσόντων⁑</p>
                             </div>
+                        </div>
+                        <div n="128r_SCHOLION" type="scholion">
+                            <div n="lemma">
+                                <p><num value="15">ιε</num></p>
                             </div>
-                                          </body>
+                            <div n="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.188</p>
+                              </div>
+                              <div n="comment">
+                                <p> κοινῶς ὡς ἂν εἴποις, κακὴν νύκτα διήγαγον· και ἔστι παθητικὸν. ὑπὸ τοῦ ποιητοῦ προσκείμενον·
+                        	ἅμα δὲ καὶ ἐξηγεῖται τὸ δυσωρήσονται· δηλοῖ γὰρ τὴν δυσχερῆ παραφυλακήν ⁑</p>
+                              </div>
+                        </div>
+                        <div n="128r_SCHOLION" type="scholion">
+                            <div n="lemma">
+                                <p><num value="16">ιϚ</num></p>
+                            </div>
+                            <div n="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.192</p>
+                            </div>
+                            <div n="comment">
+                                <p>  τεχνικῶς διὰ τοῦ παραγεῖλαι αὐτοῖς ὁμοίως φυλάττειν, ἐπῄνεσέ τε ἅμα καὶ προσέταξεν ἀνεπιφθόνως·
+                                  εὖ δὲ καὶ τὸ φίλα τἐκνα· τῷ γὰρ συγγενικῷ ὀνόματι, τὴν ἀπὸ τοῦ ὕπνου νενίκηκεν ἡδονήν⁑</p>
+                            </div>
+                        <div n="128r_SCHOLION" type="scholion">
+                            <div n="lemma">
+                                <p><num value="17">ιζ</num></p>
+                            </div>
+                            <div n="ref">
+                                <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.193</p>
+                            </div>
+                            <div n="comment">
+                                <p>  τὸ μάλιστα λυποῦν παρέλαβε· χαρὰν πολεμίων. ὡσ ἑν ὑποθήκῃ δὲ λέγων ἐν ἀυτοῖσ εἶναι τὴν πᾶσαν ἑλλήνων σωτηρίαν φησίν⁑</p>
+                            </div>
+                          </body>
             </text>
         </group>
     </text>
