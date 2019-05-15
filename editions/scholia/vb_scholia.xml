@@ -120,20 +120,50 @@
                                 πᾶσαν Ἑλλήνων <choice><abbr>στρίαν</abbr><expan>σωτηρίαν</expan></choice> φησίν ⁑</p>
                           </div>
                           </div>
-                          <div n="133r_9" type="scholion">
-                              <div n="lemma">
-                                  <p><num value="18">ιη</num></p>
-                              </div>
-                              <div n="ref">
-                                  <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.194</p>
-                              </div>
-                              <div n="comment">
-                                  <p>ὑπὲρ γεροντικὴν προθυμίαν καὶ πρῶτος πρόεισι δυσωπῶν αὐτούς· δια τί δὲ μὴ μᾶλλον ἐσώ τοῦ τείχους
+                      <div n="133r_9" type="scholion">
+                          <div n="lemma">
+                              <p><num value="18">ιη</num></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.194</p>
+                          </div>
+                          <div n="comment">
+                              <p>ὑπὲρ γεροντικὴν προθυμίαν καὶ πρῶτος πρόεισι δυσωπῶν αὐτούς· δια τί δὲ μὴ μᾶλλον ἐσώ τοῦ τείχους
                                     ἀσφαλέστερον βουλεύονται· ἀλλ’ ἐν τῷ στρατεύματι νυκτὸς περαϊόντες. θόρυβον ἐκίνησαν·
                                     καὶ ταῦτα προτεταλαιπωρημένων ἤδη τῶν <placeName n="urn:cite2:hmt:place.v1:place3">Ἑλλήνων</placeName>·ἄλλως τε· ἄτοπον ἦν εἰς κατασκοπὴν ὀτρύνοντες.
                                     μὴ τολμᾶν προϊέναι τῶν πυλῶν·ἔτι δὲ καὶ πρὸς παραμυθίαν τῶν μελλόντων ἐκπέμπεσθαι ⁑</p>
-                              </div>
-                              </div>
+                          </div>
+                      <div n="134r_1" type="scholion">
+                          <div n="lemma">
+                              <p><num value="1">α</num></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.243</p>
+                          </div>
+                          <div n="comment">
+                              <p>τῇ ἑαυτοῦ θαρρῶν <choice><sic>δρΐαὶ</sic><corr>δρΐαι</corr></choice>, σύμβουλον μόνον ἁιρεῖται ⁑</p>
+                          </div>
+                      <div n="134r_2" type="scholion">
+                          <div n="lemma">
+                              <p><num value="2">β</num></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.244</p>
+                          </div>
+                          <div n="comment">
+                              <p>ἀληθὴς ὁ ἐν τοῖς κινδύνοις ἔπαινος, πᾶσαν ἀιδῶ παρωσαμενος· ἅμα δὲ και τοῖς ἀλλοις ἀπολογεῖται. Οὐ δι᾽ ἀνδρΐαν φἠσας αὐτὸν ἁιρεῖσθαι, ἀλλὰ διὰ φόονησιν. ⁑</p>
+                          </div>
+                      <div n="134r_3" type="scholion">
+                          <div n="lemma">
+                              <p><num value="3">γ</num></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.244</p>
+                          </div>
+                          <div n="comment">
+                              <p>πρὸς τὸ φιλάλληλον οὐκ ἐπενοστήσαιμι; καὶ ὑποφαίνει ὡς ἐ ἄλλον εἴλετο, αἴτιος ἂν θανάτου ἀμφοτέροις ἐγεγόνει· καὶ δείκνυσιν, ὄτι κρείττων ἀνδρΐας φρόνησις. ⁑</p>
+                          </div>
+                          </div>
                   </div>
                 </body>
             </text>
