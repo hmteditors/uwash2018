@@ -137,7 +137,7 @@
                             </div>
                             <div n="129v_SCHOLION" type="scholion">
                                 <div n="lemma">
-                                    <p><num value="1"></num></p>
+                                    <p><num value="1"></num>α</p>
                                 </div>
                                 <div n="ref">
                                     <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.243</p>
@@ -156,6 +156,19 @@
                                         <p>ἀληθὴς ὁ ἐν τοῖς κινδύνοις ἔπαινος. πᾶσαν αἰδῶ παρωσάμενος· ἅμα δὲ καὶ τοῖς ἄλλοις
                                           ἀπολογεῖται. οὐ δι’ ἀνδρίαν φήσας αὐτὸν αἱρεῖσθαι. ἀλλὰ διὰ φρόνησιν·⁑</p>
                                     </div>
+                                    <div n="129v_SCHOLION" type="scholion">
+                                        <div n="lemma">
+                                            <p><num value="3"></num>γ</p>
+                                        </div>
+                                        <div n="ref">
+                                            <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.247</p>
+                                        </div>
+                                        <div n="comment">
+                                            <p>πρὸς τὸ φιλάλληλον οὐκ εἴπε νοστήσαιμι· καὶ ὑποφαίνει· ὡς εἰ ἀλλον εἰλετο. αἴτιος ἂν θανάτου ἀμφοτέροις ἐγεγόνει·
+                                              καὶ δείκνυσιν ὅτι κρείττων ανδρίας φρόνησις⁑</p>
+                                        </div>
+                                    
+
                           </body>
             </text>
         </group>
