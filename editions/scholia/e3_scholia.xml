@@ -230,6 +230,22 @@
                                               <div n="comment">
                                                   <p>δείκνυσιν ὅτι πρὸς μόνην σκέπην. οὐ πρὸς κόσμον πεποίηται· ὡστε τῇ μὲν ἐμπλοκῇ τῶν ἱμάντων· δυσδιάλυτον εἶναι τὸ κράνος· τὴν δὲ ἔξωθεν ἐπιφάνειαν σκέπεσθαι μετὰ τῶν ὀδόντων· πυκνῶς ἐρεισθέντων⁑</p>
                                               </div>
+                                              <div n="129v_SCHOLION" type="scholion">
+                                                      <div n="lemma">
+                                                          <p><num value="10"></num>ι</p>
+                                                      </div>
+                                                      <div n="ref">
+                                                          <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.265</p>
+                                                      </div
+                                                      <div n="comment">
+                                                          <p>τὴν μὲν κλοπὴν. ἐν ἐλεῶνι φησι γένεσθαι τῆς <persName n="urn:cite2:hmt:pers.v1:pers473">Ἀμύντορος</persName> καταίτυγος·
+                                                            <placeName n="urn:cite2:hmt:place.v1:place137">Ἐλεὼν</placeName> δὲ πόλις τῆς
+                                                            <placeName n="urn:cite2:hmt:place.v1:place30">Βοιωτίας</placeName>· τὴν δὲ διανομὴν.
+                                                            ἐκ <placeName n="urn:cite2:hmt:place.v1:place240">Σκανδείᾳ</placeName>
+                                                            πόλει <placeName n="urn:cite2:hmt:place.v1:place241">Κυθήρων</placeName> ⁑</p>
+                                                      </div>
+
+
 
                           </body>
             </text>
