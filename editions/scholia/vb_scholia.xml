@@ -213,20 +213,45 @@
                           . ὡς νεωστὶ τὸν <persName n="urn:cite:hmt:pers.pers117">Νέστορα</persName> σώσαντα ⁑</p>
                           </div>
                           </div>
-                          <div n="134v_8" type="scholion">
-                              <div n="lemma">
-                                  <p><num value="8">η</num></p>
-                              </div>
-                              <div n="ref">
-                                  <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.258</p>
-                              </div>
-                              <div n="comment">
-                                  <p> ὁ φαλὸς. ὀμφαλός ἐστιν ἀσπίδι μικρᾷ παραπλήσιος· κεῖται δὲ κατὰ τὸ μέτωπον ὑπερέχων τῶν
+                      <div n="134v_8" type="scholion">
+                          <div n="lemma">
+                              <p><num value="8">η</num></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.258</p>
+                          </div>
+                          <div n="comment">
+                              <p> ὁ φαλὸς. ὀμφαλός ἐστιν ἀσπίδι μικρᾷ παραπλήσιος· κεῖται δὲ κατὰ τὸ μέτωπον ὑπερέχων τῶν
                                     ὀφρύων, ἀποσκιάζων τὴν αὐγὴν τοῦ ἡλίου· ἧν δὲ ἄφαλος καὶ ἄλοφος, διὰ τὸ λανθάνειν·
                                     καταῖτυξ δὲ παρὰ τὸ κάτω τετύχθαι· οὐ γὰρ ἔχει λόφον ⁑</p>
+                          </div>
+                          </div>
+                      <div n="134v_9" type="scholion">
+                          <div n="lemma">
+                              <p><num value="9">ζ</num></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.259</p>
+                          </div>
+                          <div n="comment">
+                              <p> δείκνυσιν ὅτι πρὸς μόνην σκέπην, οὐ πρὸς κόσμον πεποίηται· ὡστε τῇ μὲν ἐμπλοκῇ τῶν ἱμάντων· δυσδιάλυτον εἶναι τὸ κράνος· τὴν δὲ ἔξωθεν ἐπιφάνειαν σκέπεσθαι μετὰ τῶν ὀδόντων πυκνῶς ἐρεισθέντων⁑</p>
+                          </div>
+                          </div>
+                          <div n="134v_10" type="scholion">
+                              <div n="lemma">
+                                  <p><num value="10">ι</num></p>
+                              </div>
+                              <div n="ref">
+                                  <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.265</p>
+                              </div>
+                              <div n="comment">
+                                  <p> τὴν μὲν κλοπὴν ἐν ἐλεῶνι φησὶ γένεσθαι τῆς <persName n="urn:cite2:hmt:pers.v1:pers473">Ἀμύντορος</persName> καταίτυγος·
+                                    <placeName n="urn:cite2:hmt:place.v1:place137">Ἐλεὼν</placeName> δὲ πόλις τῆς
+                                    <placeName n="urn:cite2:hmt:place.v1:place30">Βοιωτίας</placeName>· τὴν δὲ διανομὴν
+                                    ἐκ <placeName n="urn:cite2:hmt:place.v1:place240">Σκανδείᾳ</placeName>
+                                    πόλει <placeName n="urn:cite2:hmt:place.v1:place241">Κυθήρων</placeName> ⁑</p>
                               </div>
                               </div>
-
 
               </body>
             </text>
